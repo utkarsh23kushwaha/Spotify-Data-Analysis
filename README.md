@@ -7,3 +7,6 @@
 6. This is an exploratory data analysis project, EDA has been performed on the dataset of Spotify avaialble on Kaggle.
 7. Libraries used are Numpy, Pandas, Matplotlib and Seaborn.
 8. The main objective of this project was to to explore, investigate, learn and find out interesting and meaningful insights from the data, and then representing them in more easy-to-comprehend manner, with the help of graphics and visualization.
+9. Spotifu_EDA.ipynb holds all the code for this project.
+10. SpotifyFeatures.zip contains SpotifyFeature.csv dataset which is used in this project.
+
